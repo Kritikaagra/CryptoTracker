@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crypto Tracker</string>
+    <string name="icon">icon</string>
+    <string name="graph_image">welcome page graph image</string>
+    <string name="crypto">Crypto</string>
+    <string name="tracker">Tracker</string>
+    <string name="conti">Continue</string>
+    <string name="search_crypto_currency">Search Crypto Currency</string>
+    <string name="symbol">Symbol</string>
+    <string name="rate">Rate</string>
+    <string name="name">Name</string>
+    <string name="currency_image">Currency Image</string>
+    <string name="_24hours">24hours %</string>
+    <string name="_7days">7days %</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="_30days">30Days %</string>
+    <string name="graphical_visualization_last_7_days">Graphical Visualization (Last 7 days)</string>
+    <string name="_0">0</string>
+
+
+</resources>
